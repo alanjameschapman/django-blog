@@ -111,6 +111,10 @@ body {
     color: lightgray;
 }
 
+.profile-image {
+    width: 75%;
+}
+
 .btn-signup,
 .btn-edit {
     background-color: #188181;
